@@ -1,0 +1,2 @@
+Copied content:
+Hello! This is a sample file created using the fs module.
